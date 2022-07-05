@@ -1,1 +1,1 @@
-# AI-in-Healthcare
+# Artifical-Intelligence-in-Healthcare
